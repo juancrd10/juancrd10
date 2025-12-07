@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Córdoba
+# 👋 Hi, I'm Juan Cordoba
 ### Full Stack Web Developer  
 **HTML | CSS | JavaScript | Python | SQL | C#**
 
